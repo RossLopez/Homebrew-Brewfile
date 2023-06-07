@@ -28,7 +28,7 @@ Here are the brew CLI packages in my Brewfile:
 <details open>
 <summary>Essentials</summary>
 
-- [git](https://git-scm.com/) - Version controll
+- [`git`](https://git-scm.com/) - Version controll
 - [git-lfs](https://git-lfs.github.com/): Git large file
 - [htop](https://htop.dev/): Process viewer
 - [tmux](https://github.com/tmux/tmux/wiki): Terminal multiplexer
