@@ -1,4 +1,10 @@
-# Homebrew-Brewfile
+<h1 align="center">Homebrew-Brewfile</h1> 
+<p align="center">
+  <a href="https://github.com/lissy93/brewfile/">
+    <img width="120" src="https://brew.sh/assets/img/homebrew.svg" />
+  </a>
+</p>
+
 
 This repository hosts my personal Brewfile for Homebrew package management. 
 
