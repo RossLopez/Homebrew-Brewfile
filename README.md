@@ -150,6 +150,7 @@ Here are the cask packages in my Brewfile:
 - [`microsoft-onenote`](https://www.microsoft.com/onenote): Note-taking software
 - [`microsoft-teams`](https://www.microsoft.com/teams): Collaboration software
 - [`microsoft-word`](https://www.microsoft.com/word): Word processing software
+- [`obsidian`](https://obsidian.md): Notes on steroids
 - [`slack`](https://slack.com/): Team collaboration
 - [`visual-studio-code`](https://code.visualstudio.com/): Code editor
 - [`zoom`](https://zoom.us/): Video conferencing
