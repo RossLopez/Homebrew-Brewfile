@@ -74,6 +74,7 @@ Here are the brew CLI packages in my Brewfile:
 - [`unbound`](https://www.unbound.net/): DNS resolver
 - [`ncdu`](https://dev.yorhel.nl/ncdu): Disk usage analyzer
 - [`rclone`](https://rclone.org/): Cloud storage sync
+- [`warp`](https://warp.dev): Your terminal, reimagined
 - [`wimlib`](https://wimlib.net/): Windows Imaging (WIM) library
 - [`zstd`](https://github.com/facebook/zstd): Compression algorithm
 
