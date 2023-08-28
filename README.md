@@ -147,6 +147,7 @@ Here are the cask packages in my Brewfile:
 <details open>
 <summary>Productivity</summary>
 
+- [`discord`](https://discord.com) Chat
 - [`microsoft-auto-update`](https://docs.microsoft.com/en-us/officeupdates/release-notes-office-for-mac): Microsoft auto updater
 - [`microsoft-excel`](https://www.microsoft.com/excel): Spreadsheet software
 - [`microsoft-onenote`](https://www.microsoft.com/onenote): Note-taking software
