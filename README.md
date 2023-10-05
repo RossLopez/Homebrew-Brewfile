@@ -151,6 +151,7 @@ Here are the cask packages in my Brewfile:
 - [`microsoft-auto-update`](https://docs.microsoft.com/en-us/officeupdates/release-notes-office-for-mac): Microsoft auto updater
 - [`microsoft-excel`](https://www.microsoft.com/excel): Spreadsheet software
 - [`microsoft-onenote`](https://www.microsoft.com/onenote): Note-taking software
+- [`microsoft-powerpoint`](https://www.micosoft.com/powerpoint): Presentations
 - [`microsoft-teams`](https://www.microsoft.com/teams): Collaboration software
 - [`microsoft-word`](https://www.microsoft.com/word): Word processing software
 - [`obsidian`](https://obsidian.md): Notes on steroids
