@@ -156,6 +156,7 @@ Here are the cask packages in my Brewfile:
 - [`microsoft-word`](https://www.microsoft.com/word): Word processing software
 - [`obsidian`](https://obsidian.md): Notes on steroids
 - [`slack`](https://slack.com/): Team collaboration
+- [`telegram`](https://telegram.org): Messaging
 - [`visual-studio-code`](https://code.visualstudio.com/): Code editor
 - [`zoom`](https://zoom.us/): Video conferencing
 
