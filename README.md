@@ -106,6 +106,7 @@ Here are the cask packages in my Brewfile:
 - [`timemachineeditor`](https://tclementdev.com/timemachineeditor/): Time Machine scheduling
 - [`utm`](https://getutm.app/): Virtual machine manager
 - [`webull`](https://www.webull.com/): Stock trading
+- [`xpipe`](https://github.com/xpipe-io/xpipe): Connection manager
 
 
 </details>
