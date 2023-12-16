@@ -148,6 +148,7 @@ Here are the cask packages in my Brewfile:
 <details open>
 <summary>Productivity</summary>
 
+- [`cursor`](https://cursor.sh) VS Code with AI
 - [`discord`](https://discord.com) Chat
 - [`microsoft-auto-update`](https://docs.microsoft.com/en-us/officeupdates/release-notes-office-for-mac): Microsoft auto updater
 - [`microsoft-excel`](https://www.microsoft.com/excel): Spreadsheet software
