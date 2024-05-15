@@ -1,6 +1,5 @@
 tap "chef/chef"
 tap "homebrew/bundle"
-tap "lencx/chatgpt", "https://github.com/lencx/ChatGPT.git"
 tap "minacle/chntpw"
 tap "xpipe-io/tap"
 brew "aom"

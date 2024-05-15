@@ -24,7 +24,6 @@ Here are the taps in my Brewfile:
 
 - [`chef/chef`](https://github.com/chef/chef): Chef Infra
 - [`homebrew/bundle`](https://github.com/Homebrew/homebrew-bundle): Bundle extension
-- [`lencx/chatgpt`](https://github.com/lencx/ChatGPT.git): ChatGPT model
 - [`minacle/chntpw`](https://github.com/minacle/chntpw): NT password utility
 
 ## Brew Packages
