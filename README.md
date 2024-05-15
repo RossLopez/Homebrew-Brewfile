@@ -99,6 +99,7 @@ Here are the cask packages in my Brewfile:
 - [`adobe-acrobat-reader`](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html): PDF viewer
 - [`adobe-connect`](https://www.adobe.com/products/adobeconnect.html): Web conferencing platform
 - [`amorphousdiskmark`](https://www.katsurashareware.com/pgs/adm.html): Disk benchmarking
+- [`chatgpt`](https://chatgpt.com): OpenAIs ChatGPT 
 - [`handbrake`](https://handbrake.fr/): Video converter
 - [`macfuse`](https://osxfuse.github.io/): Filesystem in Userspace
 - [`microsoft-remote-desktop`](https://www.microsoft.com/remote-desktop): Remote desktop software
