@@ -116,6 +116,7 @@ Here are the cask packages in my Brewfile:
 
 - [`gitkraken`](https://www.gitkraken.com/): Git GUI
 - [`postman`](https://www.getpostman.com/): API development
+- [`ghostty`](https://ghostty.org): Ghostty Terminal
 
 </details>
 
