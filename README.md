@@ -98,7 +98,8 @@ Here are the cask packages in my Brewfile:
 - [`adobe-acrobat-reader`](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html): PDF viewer
 - [`adobe-connect`](https://www.adobe.com/products/adobeconnect.html): Web conferencing platform
 - [`amorphousdiskmark`](https://www.katsurashareware.com/pgs/adm.html): Disk benchmarking
-- [`chatgpt`](https://chatgpt.com): OpenAIs ChatGPT 
+- [`chatgpt`](https://chatgpt.com): Anthropics Claude 
+- [`claude`](https://claude.ai): 
 - [`handbrake`](https://handbrake.fr/): Video converter
 - [`macfuse`](https://osxfuse.github.io/): Filesystem in Userspace
 - [`microsoft-remote-desktop`](https://www.microsoft.com/remote-desktop): Remote desktop software
@@ -149,7 +150,6 @@ Here are the cask packages in my Brewfile:
 <details open>
 <summary>Productivity</summary>
 
-- [`cursor`](https://cursor.sh) VS Code with AI
 - [`discord`](https://discord.com) Chat
 - [`microsoft-auto-update`](https://docs.microsoft.com/en-us/officeupdates/release-notes-office-for-mac): Microsoft auto updater
 - [`microsoft-excel`](https://www.microsoft.com/excel): Spreadsheet software
