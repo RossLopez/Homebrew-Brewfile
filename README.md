@@ -24,7 +24,7 @@ Here are the taps in my Brewfile:
 
 - [`chef/chef`](https://github.com/chef/chef): Chef Infra
 - [`homebrew/bundle`](https://github.com/Homebrew/homebrew-bundle): Bundle extension
-- [`minacle/chntpw`](https://github.com/minacle/chntpw): NT password utility
+- [`xpipe-io/tap`](https://github.com/xpipe-io/xpipe): XPipe connection manager
 
 ## Brew Packages
 
@@ -46,9 +46,7 @@ Here are the brew CLI packages in my Brewfile:
 <summary>Security</summary>
 
 - [`hashcat`](https://hashcat.net/hashcat/): Password cracker
-- [`harfbuzz`](https://harfbuzz.org/): Text shaping library
 - [`fcrackzip`](https://github.com/hyc/fcrackzip): Zip password cracker
-- [`minacle/chntpw/chntpw`](https://github.com/minacle/chntpw): Offline Windows password & registry editor
 
 </details>
 
@@ -58,7 +56,6 @@ Here are the brew CLI packages in my Brewfile:
 - [`awscli`](https://aws.amazon.com/cli/): AWS command line
 - [`azure-cli`](https://docs.microsoft.com/cli/azure/): Azure command line
 - [`codex`](https://github.com/openai/codex): OpenAI's coding agent that runs in your terminal
-- [`docutils`](https://docutils.sourceforge.io/): Python doc utilities
 - [`python@3.10`](https://www.python.org/): Python language
 - [`hugo`](https://gohugo.io/): Static site generator
 - [`node`](https://nodejs.org/en/): JavaScript runtime
@@ -71,10 +68,8 @@ Here are the brew CLI packages in my Brewfile:
 
 - [`aria2`](https://aria2.github.io/): Download utility
 - [`cabextract`](https://www.cabextract.org.uk/): Extract Microsoft cabinets
-- [`unbound`](https://www.unbound.net/): DNS resolver
 - [`ncdu`](https://dev.yorhel.nl/ncdu): Disk usage analyzer
 - [`rclone`](https://rclone.org/): Cloud storage sync
-- [`warp`](https://warp.dev): Your terminal, reimagined
 - [`wimlib`](https://wimlib.net/): Windows Imaging (WIM) library
 - [`zstd`](https://github.com/facebook/zstd): Compression algorithm
 
@@ -83,9 +78,8 @@ Here are the brew CLI packages in my Brewfile:
 <details open>
 <summary>Media</summary>
 
-- [`aom`](https://aomedia.org/): AV1 codec
 - [`cdrtools`](http://cdrtools.sourceforge.net/private/cdrecord.html): CD/DVD/BluRay utilities
-- [`ffmpeg`](https://www.ffmpeg.org/): Multimedia framework storage
+- [`ffmpeg`](https://www.ffmpeg.org/): Multimedia framework
 
 </details>
 
@@ -104,7 +98,6 @@ Here are the cask packages in my Brewfile:
 - [`handbrake`](https://handbrake.fr/): Video converter
 - [`macfuse`](https://osxfuse.github.io/): Filesystem in Userspace
 - [`microsoft-remote-desktop`](https://www.microsoft.com/remote-desktop): Remote desktop software
-- [`raspberry-pi-imager`](https://www.raspberrypi.org/software/): Raspberry Pi imaging
 - [`timemachineeditor`](https://tclementdev.com/timemachineeditor/): Time Machine scheduling
 - [`utm`](https://getutm.app/): Virtual machine manager
 - [`webull`](https://www.webull.com/): Stock trading
@@ -143,7 +136,6 @@ Here are the cask packages in my Brewfile:
 <details open>
 <summary>Security</summary>
 
-- [`inspec`](https://www.inspec.io/): Compliance testing
 - [`veracrypt`](https://www.veracrypt.fr/en/Home.html): Disk encryption software
 
 </details>
