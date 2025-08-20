@@ -57,6 +57,7 @@ Here are the brew CLI packages in my Brewfile:
 
 - [`awscli`](https://aws.amazon.com/cli/): AWS command line
 - [`azure-cli`](https://docs.microsoft.com/cli/azure/): Azure command line
+- [`codex`](https://github.com/openai/codex): OpenAI's coding agent that runs in your terminal
 - [`docutils`](https://docutils.sourceforge.io/): Python doc utilities
 - [`python@3.10`](https://www.python.org/): Python language
 - [`hugo`](https://gohugo.io/): Static site generator
