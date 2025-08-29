@@ -127,9 +127,7 @@ Here are the cask packages in my Brewfile:
 <details open>
 <summary>Browsers</summary>
 
-- [`google-chrome`](https://www.google.com/chrome/): Web browser
-- [`firefox`](https://www.mozilla.org/firefox/): Web browser
-- [`microsoft-edge`](https://www.microsoft.com/en-us/edge): Web browser
+- [`vivaldi`](https://vivaldi.com/): Web browser
 
 </details>
 
